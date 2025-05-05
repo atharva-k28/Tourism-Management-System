@@ -1,0 +1,5 @@
+001|Paithan|India|4|30000|
+002|Tokyo|Japan|15|80000|
+003|Pune|India|5|20000|
+004|Florida|USA|12|85000|
+005|Bangkok|Thai|6|75000|
